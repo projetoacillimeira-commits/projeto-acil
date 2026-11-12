@@ -1,0 +1,8 @@
+{
+  "name": "marketing-de-bolso",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Painel de marketing digital de bolso para lojistas",
+  "engines": { "node": ">=18" },
+  "scripts": {}
+}
